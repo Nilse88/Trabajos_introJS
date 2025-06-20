@@ -10,14 +10,14 @@ console.log(suma);
 console.log(mensaje);
 //Verificar la variable verdadero.
 if (verdadero == true) {
-    console.log("La variable verdadero es true")
+    console.log("La variable verdadero es true");
 }
 else {
     console.log("La variable verdadero es falsa");
 }
 //Verificar si la variable nada.
 if (nada == null) {
-    console.log("La variable nada no tiene valor asignado")
+    console.log("La variable nada no tiene valor asignado");
 }
 else {
     console.log("La variable nada si tiene valor asignado");

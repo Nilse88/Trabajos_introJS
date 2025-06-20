@@ -7,8 +7,9 @@ if (numero1 < numero2) {
     console.log("El número"+ numero2 +"es mayor a"+ numero1);
 } 
   else if (numero1 == numero2) {
-    console.log("Los números ingresados son iguales")
+    console.log("Los números ingresados son iguales");
 }
 else {
-    (console.log("El número"+ numero1 + "es mayor a"+ numero2));}
+    (console.log("El número"+ numero1 + "es mayor a"+ numero2));
+}
 

@@ -5,10 +5,10 @@ let num2 = parseFloat(prompt('Ingresa un segundo número: '));
 let num3 = parseFloat(prompt('Ingresa un tercer número: '));
 //Evaluar los datos ingresados e imprimir por consola cual es el mayor de ellos.
 if (num1 > num2 && num1 > num3) {
-    console.log("El número mayor de los datos ingresados es: " + num1)
+    console.log("El número mayor de los datos ingresados es: " + num1);
 } else if (num2 > num1 && num2 > num3) {
-    console.log("El número mayor de los datos ingresados es: " + num2)
+    console.log("El número mayor de los datos ingresados es: " + num2);
 } else {
-    console.log("El número mayor de los datos ingresados es: " + num3)
+    console.log("El número mayor de los datos ingresados es: " + num3);
 }
     

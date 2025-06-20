@@ -7,6 +7,6 @@ if (modulo != 0) {
     console.log("El número ingresado es impar");
 }
  else {
-    console.log("El número ingresado es par")
+    console.log("El número ingresado es par");
 }
  

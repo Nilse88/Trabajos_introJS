@@ -5,8 +5,9 @@ let nombre = prompt("Ingresa tu nombre: ");
 const miNombre = "Nilse";
 //Comparar el dato ingresado por el usuario con la constante creada
 if (nombre != miNombre) {
-    console.log("No tenemos el mismo nombre")
+    console.log("No tenemos el mismo nombre");
 }
-else {console.log("Nuestros nombres son iguales")
+else {
+    console.log("Nuestros nombres son iguales");
 
 }
